@@ -1,4 +1,4 @@
-<h1 align="center">Classification Toxic Using Jinja and FastApu</h1>
+<h1 align="center">Classification Toxic Using Jinja and FastApi</h1>
 <h3 align="center">Using Models from huggingface</h3>
 
 - 🔭 Model I Using To Classify [w11wo/indonesian-roberta-base-sentiment-classifier](https://huggingface.co/w11wo/indonesian-roberta-base-sentiment-classifier)
