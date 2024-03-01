@@ -8,7 +8,8 @@
 <h1 align="center" style=" margin-top: 35px">How To use </h1>
  
 
-> python -m venv
+> python -m venv 
+
 > pip install -r requirements.txt
 
 
