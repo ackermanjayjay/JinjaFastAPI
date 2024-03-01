@@ -3,7 +3,7 @@
 
 - 🔭 Model I Using To Classify [w11wo/indonesian-roberta-base-sentiment-classifier](https://huggingface.co/w11wo/indonesian-roberta-base-sentiment-classifier)
 
-- 🌱 Libray I use **FastApi, React, HuggingFace**
+- 🌱 Libray I use **FastApi, HuggingFace**
 <p align="center"> Result Application </p>
 <img src="assets\Capture.PNG" alt="Gambar">
 
